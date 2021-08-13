@@ -72,7 +72,7 @@ bad_chars()
 
 
 ##Locate the address of JMP ESP/PUSH ESP; RET
-#JMP ESP: Ctl+f EMP ESP
+#JMP ESP: Ctl+f JMP ESP
 #PUSH ESP; RET: Ctl+b 54C3
 #Exploit 
 def exploit():
